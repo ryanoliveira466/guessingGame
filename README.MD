@@ -20,7 +20,7 @@ Para instalar e executar o Guessing Game, siga estas etapas:
     git clone https://github.com/ryanoliveira466/guessingGame.git
     ```
 
-2. Estamos usando o *readline* e *java-script* então instale o **node.js** e execute essas linhas de código no temrinal:
+2. Estamos usando o *readline* e *java-script* então instale o **node.js** e execute essas linhas de código no terminal:
 
     
     https://nodejs.org/pt
