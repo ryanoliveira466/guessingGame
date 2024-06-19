@@ -1,6 +1,6 @@
 # GuessingGame
 
-Guesssing Game é um jogo onde o sistema escolhe um número e você tem que adivinhas qual é esse número.
+Guesssing Game é um jogo onde o sistema escolhe um número e você tem que adivinhar qual é esse número.
 
 ## Índice
 
