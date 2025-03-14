@@ -14,13 +14,13 @@ Guesssing Game é um jogo onde o sistema escolhe um número e você tem que adiv
 
 Para instalar e executar o Guessing Game, siga estas etapas:
 
-1. Clone o repositório para o seu ambiente local ou faça o download direto do repositório:
+1 - Clone o repositório para o seu ambiente local ou faça o download direto do repositório:
 
     ```bash
     git clone https://github.com/ryanoliveira466/guessingGame.git
     ```
 
-2. Estamos usando o *readline* e *java-script* então instale o **node.js** e execute essas linhas de código no terminal:
+2 - Estamos usando o *readline* e *java-script* então instale o **node.js** e execute essas linhas de código no terminal:
 
     
     https://nodejs.org/pt
